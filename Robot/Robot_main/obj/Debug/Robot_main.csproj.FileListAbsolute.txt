@@ -1,0 +1,9 @@
+G:\Robot_main\Robot\Robot_main\bin\Debug\Robot_main.exe.config
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.csprojResolveAssemblyReference.cache
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.AxisIndoPageControl.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.AxisStatusPic.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.Form_axisInfo.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.Form_main.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.Properties.Resources.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.SysRunningInfo.resources
+G:\Robot_main\Robot\Robot_main\obj\Debug\Robot_main.csproj.GenerateResource.Cache
